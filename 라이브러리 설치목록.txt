@@ -1,0 +1,14 @@
+설치목록
+1. 
+react-bootstrap
+: yarn add react-bootstrap bootstrap
+
+
+2. 
+redux
+:yarn add redux
+
+
+3. 
+react-redux
+:yarn add react-redux

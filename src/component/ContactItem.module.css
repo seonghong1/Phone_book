@@ -1,0 +1,18 @@
+
+.box{
+    border: 3px solid gray;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 15px 10px;
+}
+img{
+    width: 70px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.text h4, .text p{
+    margin-bottom: 0;
+}
