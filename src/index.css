@@ -4,7 +4,28 @@
     background-color: #e0e5e9;
     padding: 30px;
     box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
 }
+.container-md{
+  height: 100%;
+  overflow: hidden;
+}
+.containers {
+  height: 100%;
+  padding-bottom: 50px;
+}
+#App_form__OReHa{
+  height: 42% !important;
+}
+#App_list__pdobS{
+  height: 50% !important;
+}
+.App_all_wrap__5-qGQ{
+  padding: 20px 10px !important;
+ 
+}
+
 @media (min-width: 768px){
     .row{
         justify-content: space-between;
@@ -12,4 +33,11 @@
     .col-md-6{
       width: 49% !important;
     }
+    #App_form__OReHa{
+      height: 50% !important;
+    }
+    #App_list__pdobS{
+      height: 80% !important;
+    }
+
   }
